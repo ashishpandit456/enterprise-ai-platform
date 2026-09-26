@@ -1,0 +1,27 @@
+# Enterprise AI Platform
+
+An end-to-end enterprise AI learning project built using Python, Azure and modern AI engineering practices.
+
+## Objectives
+
+- Learn Generative AI fundamentals
+- Build RAG applications
+- Work with Azure AI services
+- Implement automated testing
+- Implement CI/CD
+- Implement monitoring and observability
+- Explore AI security and responsible AI
+- Deploy an enterprise-style AI application
+
+## Technology Stack
+
+- Python
+- Azure
+- Microsoft Foundry
+- Azure OpenAI
+- Azure AI Search
+- Azure Blob Storage
+- GitHub
+- GitHub Actions
+- FastAPI
+- Pytest
